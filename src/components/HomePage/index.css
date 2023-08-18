@@ -1,0 +1,25 @@
+@import url("http://fonts.googleapis.com/css?family=Roboto");
+
+.homepage-container{
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: center;
+    font-family: "Roboto";
+}
+.welcome-image{
+    height: 400px;
+    width: 65vw;
+}
+.logout-btn{
+    background-color: #3e85f7;
+    color: #ffffff;
+    align-self: center;
+    height: 40px;
+    font-size: 14px;
+    font-weight: 600;
+    border: none;
+    border-radius: 4px;
+    width: 120px;
+}
